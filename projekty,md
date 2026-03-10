@@ -1,7 +1,9 @@
----
-layout: page
-title: projekty
----
+|  [Strona Główna](index) 
+
+|  [O mnie](o-mnie)
+
+|  [Projekty](projekty)
+
 Poniżej projekty aplikacji sztucznej inteligencji napisane w języku python z użyciem bibliotek pycaret
 
 https://github.com/ryszarddddl/ankieta_znajdowanie_znajomych
